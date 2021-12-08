@@ -3,3 +3,8 @@
     margin: auto;
 }
 
+h1 {
+    color: brown;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
